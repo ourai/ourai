@@ -1,8 +1,8 @@
-# Hi, my name is Ourai 🤩
+# Hi, my name is Ourai L. 🤩
 
 I'm a web developer, focusing on standardization and industrialization of front-end development.
 
-If want, you will find the approach to contact me on [my personal website](https://ourai.ws/).
+If want, you will find the approach to contact me on [my personal website](https://ourai.ws/) (written in Chinese).
 
 I can speak Chinese, Japanese and English, feel free to choose one which you're good at.
 
