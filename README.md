@@ -1,19 +1,32 @@
 # Hi, my name is Ourai L. 🤩
 
-I'm a web developer, focusing on standardization and industrialization of front-end development.
+I'm a __DnA ENGR__ (means __Decentralization and Anti-chaos Engineer__).
 
-If want, you will find the approach to contact me on [my personal website](https://ourai.ws/) (written in Chinese).
+If want, you will find the approach to contact me on [my personal website](https://ourai.ws/) (written in Chinese). I can speak Chinese, Japanese and English. Please feel free to choose one which you're good at.
 
-I can speak Chinese, Japanese and English, feel free to choose one which you're good at.
+The featured open-source projects I'm working on listed below.
 
-## Featured OSS projects
+## [Anti-chaos](https://github.com/anti-chaos)
 
-The open-source projects I'm working on:
+Also known as __NTKS__. Focusing on __standardization__ and __industrialization__ of front-end development.
 
-- [Petals](https://github.com/ourai/petals) - Atomic interfaces and headless components for component-based front-end UI development
-  - [Kokiri](https://github.com/kokiri-ui), Vue.js components based on Petals
-  - [Zora](https://github.com/zora-ui), React components based on Petals
-- [Handie](https://github.com/handiejs) - Progressive config-driven JavaScript framework for front-end development of web-based management systems
-  - [`@handie/runtime-core`](https://github.com/handiejs/runtime-core), the runtime foundation
-  - [`handie-vue`](https://github.com/handiejs/handie-vue), solution for apps based on Vue.js
-  - [`handie-react`](https://github.com/handiejs/handie-react), solution for apps based on React
+### [Petals](https://github.com/ourai/petals)
+
+A sub system of __Fxxk Design__, born for component-based front-end development.
+
+As the foundation of GUI development, provides component interfaces, headless components, CSS components and many useful utilities.
+
+There're also some implementations based on Petals:
+
+- [Kokiri](https://github.com/kokiri-ui) - Vue.js components
+- [Zora](https://github.com/zora-ui) - React components
+
+### [Handie](https://github.com/handiejs)
+  
+A progressive config-driven JavaScript framework from __Future.js__ for front-end development of web-based management systems.
+
+Solutions for web apps based on Vue.js ([`handie-vue`](https://github.com/handiejs/handie-vue)) and React ([`handie-react`](https://github.com/handiejs/handie-react)) are available right now.
+
+## Individual-centered services
+
+💡s are still in 🧠.
