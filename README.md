@@ -4,7 +4,8 @@ I'm a __DnA ENGR__ (means __Decentralization and Anti-chaos Engineer__).
 
 If want, you will find the approach to contact me on [my personal website](https://ourai.ws/) (written in Chinese). I can speak Chinese, Japanese and English. Please feel free to choose one which you're good at.
 
-The featured open-source projects I'm working on listed below.
+<details>
+<summary>The featured open-source projects I'm working on listed below.</summary>
 
 ## [Anti-chaos](https://github.com/anti-chaos)
 
@@ -30,3 +31,4 @@ Solutions for web apps based on Vue.js ([`handie-vue`](https://github.com/handie
 ## Individual-centered services
 
 💡s are still in 🧠.
+</details>
