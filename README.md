@@ -4,12 +4,12 @@ I'm a __DnA ENGR__ (means __Decentralization and Anti-chaos Engineer__).
 
 If want, you will find the approach to contact me on [my personal website](https://ourai.ws/) (written in Chinese). I can speak Chinese, Japanese and English. Please feel free to choose one which you're good at.
 
-<details>
-<summary>The featured open-source projects I'm working on listed below.</summary>
+The featured open-source projects I'm working on listed below.
 
 ## [Anti-chaos](https://github.com/anti-chaos)
 
-Also known as __NTKS__. Focusing on __standardization__ and __industrialization__ of front-end development.
+<details>
+<summary>Also known as <strong>NTKS</strong>. Focusing on <strong>standardization</strong> and <strong>industrialization</strong> of front-end development.</summary>
 
 ### [Petals](https://github.com/ourai/petals)
 
@@ -27,8 +27,8 @@ There're also some implementations based on Petals:
 A progressive config-driven JavaScript framework from __Future.js__ for front-end development of web-based management systems.
 
 Solutions for web apps based on Vue.js ([`handie-vue`](https://github.com/handiejs/handie-vue)) and React ([`handie-react`](https://github.com/handiejs/handie-react)) are available right now.
+</details>
 
 ## Individual-centered services
 
 💡s are still in 🧠.
-</details>
