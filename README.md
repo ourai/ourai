@@ -2,7 +2,7 @@
 
 I'm a __DnA ENGR__ (means __Decentralization and Anti-chaos Engineer__).
 
-If you want to contact me, you will find the approach on [my personal website](https://ourai.ws/) (written in Chinese). I can speak Chinese, Japanese and English. Feel free to choose one which you're good at.
+If you want to contact me, you can find the approach on [my personal website](https://ourai.ws/) (written in Chinese). I can speak Chinese, Japanese and English. Feel free to choose one which you're good at.
 
 The featured open-source projects I'm working on listed below.
 
