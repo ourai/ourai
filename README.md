@@ -26,7 +26,7 @@ There're also some implementations based on Petals:
   
 A progressive config-driven JavaScript framework from __Future.js__ for front-end development of web-based management systems.
 
-Solutions for web apps based on Vue.js ([`handie-vue`](https://github.com/handiejs/handie-vue)) and React ([`handie-react`](https://github.com/handiejs/handie-react)) are available right now.
+Solutions for web apps based on Vue.js ([`handie-vue`](https://github.com/handiejs/vue)) and React ([`handie-react`](https://github.com/handiejs/react)) are available right now.
 </details>
 
 ## Individual-centered services
