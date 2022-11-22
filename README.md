@@ -19,14 +19,14 @@ As the foundation of GUI development, provides component interfaces, headless co
 
 There're also some implementations based on Petals:
 
-- [Kokiri](https://github.com/kokiri-ui) - Vue.js components
-- [Zora](https://github.com/zora-ui) - React components
+- [Kokiri](https://github.com/fxxk-design/kokiri) - Vue components
+- [Zora](https://github.com/fxxk-design/zora) - React components
 
 ### [Handie](https://github.com/handiejs)
   
 A progressive config-driven JavaScript framework from __Future.js__ for front-end development of web-based management systems.
 
-Solutions for web apps based on Vue.js ([`handie-vue`](https://github.com/handiejs/vue)) and React ([`handie-react`](https://github.com/handiejs/react)) are available right now.
+Solutions for web apps based on Vue ([`handie-vue`](https://github.com/handiejs/vue)) and React ([`handie-react`](https://github.com/handiejs/react)) are available right now.
 </details>
 
 ## Individual-centered services
