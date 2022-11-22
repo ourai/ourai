@@ -11,7 +11,7 @@ The featured open-source projects I'm working on listed below.
 <details>
 <summary>Also known as <strong>NTKS</strong>. Focusing on <strong>standardization</strong> and <strong>industrialization</strong> of front-end development.</summary>
 
-### [Petals](https://github.com/ourai/petals)
+### [Petals](https://github.com/fxxk-design/petals)
 
 A sub system of __Fxxk Design__, born for component-based front-end development.
 
