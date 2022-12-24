@@ -22,11 +22,11 @@ There're also some implementations based on Petals:
 - [Kokiri](https://github.com/fxxk-design/kokiri) - Vue components
 - [Zora](https://github.com/fxxk-design/zora) - React components
 
-### [Handie](https://github.com/handiejs)
+### [Handie](https://github.com/future-js/handie)
   
 A progressive config-driven JavaScript framework from __Future.js__ for front-end development of web-based management systems.
 
-Solutions for web apps based on Vue ([`handie-vue`](https://github.com/handiejs/vue)) and React ([`handie-react`](https://github.com/handiejs/react)) are available right now.
+Solutions for web apps based on Vue ([`handie-vue`](https://www.npmjs.com/package/handie-vue)) and React ([`handie-react`](https://www.npmjs.com/package/handie-react)) are available right now.
 </details>
 
 ## Individual-centered services
