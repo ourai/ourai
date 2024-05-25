@@ -1,0 +1,19 @@
+<footer class="Page-footer Footer">
+  <div class="<% if (site.data['local/repos'] && site.data['local/repos'][page.repo]) { %>container-fluid<% } else { %>container<% } %>">
+    <% const utm_params = `utm_source=${theme.meta.url}&utm_medium=common-footer` %>
+    <div class="Footer-description">
+      <% if (theme.footer && (theme.footer.links || []).length > 0) { %>
+        <!-- Important links -->
+        <nav class="Footer-navs">
+          <ul><% theme.footer.links.forEach(link => { %><li><%- partial('_ksio/components/link', { link, utm: utm_params, wrap: true }) %></li><% }) %></ul>
+        </nav>
+      <% } %>
+      <% if (theme.copyright) { %>
+        <!-- Copyright -->
+        <div class="Footer-copyright">
+          <p><%- partial('_local/components/copyright', { utm: utm_params }) %></p>
+        </div>
+      <% } %>
+    </div>
+  </div>
+</footer>

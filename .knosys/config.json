@@ -1,0 +1,13 @@
+{
+  "command": "./.knosys/scripts/command",
+  "site": {
+    "default": {
+      "alias": "ourai-cyberhome-en",
+      "generator": "hexo",
+      "git": {
+        "url": "https://github.com/ourai/ourai.github.io.git",
+        "branch": "main"
+      }
+    }
+  }
+}
